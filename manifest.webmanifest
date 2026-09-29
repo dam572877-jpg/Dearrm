@@ -1,0 +1,12 @@
+{
+  "name":"DREAM HOUSE — Real Estate App",
+  "short_name":"DREAM HOUSE",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f4f6f8",
+  "theme_color":"#102b3a",
+  "orientation":"portrait",
+  "lang":"ar",
+  "dir":"rtl",
+  "description":"DREAM HOUSE real estate management workspace — Engineer Ahmed Galal"
+}
